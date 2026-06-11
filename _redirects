@@ -1,0 +1,11 @@
+# Cloudflare Pages _redirects
+# Legacy WordPress payment page redirects → Stripe Payment Links
+
+/tier-1-payment/   https://buy.stripe.com/6oU8wO1XOdl282NbNL4Ni02   301
+/tier-2-payment/   https://buy.stripe.com/7sY9ASdGw6WEdn7cRP4Ni03   301
+/tier-3-payment/   https://buy.stripe.com/3cI7sKdGw1CkbeZ0534Ni04   301
+
+# Old WordPress paths
+/tier-1-payment    https://buy.stripe.com/6oU8wO1XOdl282NbNL4Ni02   301
+/tier-2-payment    https://buy.stripe.com/7sY9ASdGw6WEdn7cRP4Ni03   301
+/tier-3-payment    https://buy.stripe.com/3cI7sKdGw1CkbeZ0534Ni04   301
